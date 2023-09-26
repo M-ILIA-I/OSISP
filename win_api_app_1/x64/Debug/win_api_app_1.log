@@ -1,0 +1,7 @@
+﻿  win_api_app_1.cpp
+D:\OSISP\win_api_app_1\win_api_app_1.cpp(185,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\OSISP\win_api_app_1\win_api_app_1.cpp(195,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\OSISP\win_api_app_1\win_api_app_1.cpp(205,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\OSISP\win_api_app_1\win_api_app_1.cpp(215,19): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\OSISP\win_api_app_1\win_api_app_1.cpp(224,20): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+  win_api_app_1.vcxproj -> D:\OSISP\win_api_app_1\x64\Debug\win_api_app_1.exe
